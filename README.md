@@ -13,6 +13,8 @@ All great project start with creative minds wishing to collaborate and innovate 
 Anne-Camille is an IT instructor and a maker specialised in animatronics.       
 Dewi is an artist specialised in folding.       
 
+<img src="https://user-images.githubusercontent.com/25649502/126034620-c501a46c-a918-49c5-a3f6-5b40b10ddbfd.jpg" alt="alt text" width="100" height="100"> <img src="https://user-images.githubusercontent.com/25649502/126034633-73874208-8fb1-4b56-b159-06c3d1f27581.jpg" alt="alt text" width="70" height="100">
+
 They both met thanks to the fablab OpenFab in Brussels (Anne-Camille is one of the founder, Dewi a co-manager).       
 
 Creating a origami-robot as been on their agenda for quite a while...       
