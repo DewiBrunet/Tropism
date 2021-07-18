@@ -6,7 +6,9 @@ What?  a workshop project
 Who? created by Anne-Camille Gilbert and Dewi Brunet        
 When? during Digital November 2021        
 Were? at the fablab RogLab in Ljubljana       
-Organised and finance? by Institut Français and the Vulca program       
+Organised and finance? by Institut Français and the Vulca program
+
+<img src="https://user-images.githubusercontent.com/25649502/126064192-209972eb-1d5a-4aae-a5f1-dfd81056b177.png" alt="alt text" width="100" height="100"> <img src="https://user-images.githubusercontent.com/25649502/126064193-67353cea-6ac8-440b-bbd6-f7c497d8a060.png" alt="alt text" width="150" height="100"> <img src="https://user-images.githubusercontent.com/25649502/126064205-7574dc65-2f37-4fe0-92c9-b13df8bc733a.png" alt="alt text" width="100" height="100">      
 
 ## Were it all started
 All great project start with creative minds wishing to collaborate and innovate by combining their field of expertise.        
