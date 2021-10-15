@@ -29,3 +29,6 @@ Tropism aims at creating a unique plantoïdori (plant-robot-folded) that will bl
 position , the creation will sense the invisible, fathoming the links between a virtual code and its real-world effects.
 
 The objective is to create a unique and customised flower lamp, combining electronics and folding techniques and introducing participants to several fablab technologies (laser, 3D, electronics)
+
+![Webp net-gifmaker](https://user-images.githubusercontent.com/25649502/137467702-7ab13a88-d03b-4ffd-9eda-1ae6cb96378e.gif)
+
