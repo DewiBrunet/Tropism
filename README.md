@@ -3,11 +3,11 @@ A folded robotic biomimetic lamp
 
 ## Context
 
-- What?  a workshop project       <img align="right" img src="https://user-images.githubusercontent.com/25649502/126064192-209972eb-1d5a-4aae-a5f1-dfd81056b177.png" alt="alt text" width="100" height="100">      <img align="right" img src="https://user-images.githubusercontent.com/25649502/126064193-67353cea-6ac8-440b-bbd6-f7c497d8a060.png" alt="alt text" width="150" height="100">       <img align="right" img src="https://user-images.githubusercontent.com/25649502/126064205-7574dc65-2f37-4fe0-92c9-b13df8bc733a.png" alt="alt text" width="100" height="100">
+- What?  a workshop project <img align="right" img src="https://user-images.githubusercontent.com/25649502/126064205-7574dc65-2f37-4fe0-92c9-b13df8bc733a.png" alt="alt text" width="100" height="100"> <img align="right" img src="https://user-images.githubusercontent.com/25649502/137733747-1d26cf5b-d9ea-4fc0-8e6d-80dd8700f3ce.jpg" alt="alt text" width="65" height="100"><img align="right" img src="https://user-images.githubusercontent.com/25649502/126064193-67353cea-6ac8-440b-bbd6-f7c497d8a060.png" alt="alt text" width="170" height="100">                  
 - Who? created by Anne-Camille Gilbert and Dewi Brunet        
 - When? during Digital November 2021        
-- Were? at the fablab RogLab in Ljubljana       
-- Organised and finance? by Institut Français and the Vulca program
+- Were? at Rog Centre - Creative Hub, Ljubljana, Slovenia  
+- Organised and finance? by Institut Français and Rog Centre Creative Hub
               
 ## Were it all started
 All great project start with creative minds wishing to collaborate and innovate by combining their field of expertise.
