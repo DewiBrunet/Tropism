@@ -5,7 +5,9 @@ https://www.circuito.io/static/reply/index.html?solutionId=616c06a98243f9003016e
 
 The wiring for the capacitive touch is wrong in the circuito.io. Pin 2 to the start of the resistor stripe, then PIN 3, then wire to the capacitive touch.
 
+### Soldering the aluminium foil 
 
+https://www.youtube.com/watch?v=_mYkM9lHMho
 
 ### Test file
 
